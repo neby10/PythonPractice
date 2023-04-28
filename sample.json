@@ -1,0 +1,12 @@
+{
+"Name": "Test",
+"Mobile": 12345678,
+"Boolean": true,
+"Pets": ["Dog", "cat"],
+"tiger": "tiger",
+"numbers": [23, 432, 33, 57, 32, 543, 22, 1, -24, 35, 77, 100],
+"Address": {
+    "Permanent address": "USA",
+    "current Address": "AU"
+    }
+}

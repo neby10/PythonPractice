@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Tests xmlns="http://www.adatum.com">
+  <Test TestId="0001" TestType="CMD">
+    <Name>Mercury</Name>
+    <Input>45</Input>
+    <Output>One</Output>
+  </Test>
+  <Test TestId="0002" TestType="CMD">
+    <Name>Mandalorian</Name>
+    <Input>30</Input>
+    <Output>def</Output>
+  </Test>
+  <Test TestId="0003" TestType="GUI">
+    <Name>Coruscant</Name>
+    <Input>12</Input>
+    <Output>One Two Three</Output>
+  </Test>
+  <Test TestId="0004" TestType="GUI">
+    <Name>Dagobah</Name>
+    <Input>39</Input>
+    <Output>b1</Output>
+  </Test>
+  <Test TestId="0005" TestType="GUI">
+    <Name>Palpatine</Name>
+    <Input>66</Input>
+    <Output>14</Output>
+  </Test>
+  <Test TestId="0006" TestType="GUI">
+    <Name>Kamino</Name>
+    <Input>88</Input>
+    <Output>10</Output>
+  </Test>
+</Tests>
