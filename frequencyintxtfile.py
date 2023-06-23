@@ -31,3 +31,5 @@ print(my_dict)
 for item in my_dict:
     if my_dict[item] > 3:
         print(item, my_dict[item])
+
+file.close()

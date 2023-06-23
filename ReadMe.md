@@ -4,7 +4,7 @@ Created: 4.25.2023
 
 ## WITH GREAT POWER COMES GREAT RESPONSIBILITY.
 
-### This repo is meant for me to refamiliarize myself with python before diving into some cool projects. Python was the first language I was every exposed to in college and I want to revisit it and make some fun projects and scrape data.
+### This repo is meant for me to refamiliarize myself with python before diving into some cool projects. Python was the first language I was ever exposed to in college and I want to revisit it and make some fun projects and scrape data.
 
 PYTHON CHALLENGES
 1. Write a Python program that prints "Hello, world!" to the console.
