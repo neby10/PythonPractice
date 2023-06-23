@@ -3,7 +3,14 @@
 # very sloppy but i think it works
 
 import random, sys
-import time
+
+def round_intro():
+    print("     ____      ____      ____       ")
+    print("    |    |    |    |    |    |      ")
+    print("    |    |    |    |    |    |      ")
+    print("    |____|    |____|    |____|      ")
+    print("    Door 1    Door 2    Door 3      ")
+    print("\n\nA prize is behind one of these doors. Your goal is to pick the correct door. Choose wisely.")
 
 def door_1():
     print("You choose Door 1")
@@ -81,12 +88,7 @@ win_count = 0
 lose_count = 0
 
 while True:
-    print("     ____      ____      ____       ")
-    print("    |    |    |    |    |    |      ")
-    print("    |    |    |    |    |    |      ")
-    print("    |____|    |____|    |____|      ")
-    print("    Door 1    Door 2    Door 3      ")
-    print("\n\nA prize is behind one of these doors. Your goal is to pick the correct door. Choose wisely.")
+    round_intro()
 
     door_list = ["1", "2", "3"]
     correct_door = random.choice(door_list)
