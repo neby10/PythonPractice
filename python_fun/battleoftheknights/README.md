@@ -6,10 +6,16 @@ Created Friday June 23, 2023
 
 Attack deals random damage to opponent. Defend prevents the attack. Rest gains health points.
 
+You may not perform the same action more than twice in a row.
+
 Choose 'a', 'd', or 'r':
 * 'a' => ATTACK
 * 'd' => DEFEND
 * 'r' => REST
+
+Modes:
+* One Player = 'one'
+* Two Player = 'two'
 
 #### Constraints:
 * Game does not allow greater than 100 health points for a player.
@@ -28,8 +34,7 @@ Choose 'a', 'd', or 'r':
 
 #### LATER IDEAS
 
-* no more than two of the same move in a row??
-* two player mode
-* additional choices
-* classes / archetypes for player to choose from??
+* additional choices other than A, D, R
+* classes / archetypes for player to choose from?? Class inheritance
 * CPU opponent strategies and difficulties...
+* fix two player mode to use socket programming or something else so you cannot see the other players input
