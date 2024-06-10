@@ -37,4 +37,5 @@ Modes:
 * additional choices other than A, D, R
 * classes / archetypes for player to choose from?? Class inheritance
 * CPU opponent strategies and difficulties...
+* enforce no more than twice in a row on the CPU
 * fix two player mode to use socket programming or something else so you cannot see the other players input
